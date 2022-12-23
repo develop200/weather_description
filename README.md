@@ -14,3 +14,4 @@
 ### Исследование
 
 Само исследование с описанием хода решения задачи приведено в файле research.ipynb.
+Если графики tensorboard не видны после скачивания, то тот же ноутбук можно посмотреть по ссылке в colab: https://drive.google.com/file/d/1GZaFz-lJiqf68-4gJNRgvntG4TDvFlLi/view?usp=sharing
